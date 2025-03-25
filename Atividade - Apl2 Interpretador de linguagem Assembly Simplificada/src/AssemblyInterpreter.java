@@ -1,5 +1,3 @@
-//Matheus Veiga Bacetic Joaquim | RA: 10425638
-//João Vitor Rocha Miranda | RA: 10427273
 //Gabriel Pereira Faravola | RA: 10427189
 
 import java.util.Scanner;
