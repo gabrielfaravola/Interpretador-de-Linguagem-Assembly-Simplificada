@@ -1,8 +1,4 @@
-//Matheus Veiga Bacetic Joaquim | RA: 10425638
-//João Vitor Rocha Miranda | RA: 10427273
-//Gabriel Pereira Faravola | RA: 10427189
-
-//Bibliografia:  https://chatgpt.com/share/673e0d3b-59ac-8002-b5c4-b469f4527819
+//Gabriel Pereira Faravola
 
 import java.util.Scanner;
 
