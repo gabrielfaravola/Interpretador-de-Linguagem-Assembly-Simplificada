@@ -1,5 +1,3 @@
-//Matheus Veiga Bacetic Joaquim
-//João Vitor Rocha Miranda
 //Gabriel Pereira Faravola
 
 import java.io.FileWriter;
