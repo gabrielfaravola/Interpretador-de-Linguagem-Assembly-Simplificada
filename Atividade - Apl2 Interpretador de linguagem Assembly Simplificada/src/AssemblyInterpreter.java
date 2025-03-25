@@ -1,4 +1,4 @@
-//Gabriel Pereira Faravola | RA: 10427189
+//Gabriel Pereira Faravola
 
 import java.util.Scanner;
 
